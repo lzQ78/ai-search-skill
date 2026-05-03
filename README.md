@@ -1,3 +1,14 @@
+<!-- Keep these links. Translations will automatically update with the README. -->
+[中文](https://zdoc.app/zh/lzQ78/ai-search-skill) |
+[Deutsch](https://zdoc.app/de/lzQ78/ai-search-skill) |
+[English](https://zdoc.app/en/lzQ78/ai-search-skill) |
+[Español](https://zdoc.app/es/lzQ78/ai-search-skill) |
+[français](https://zdoc.app/fr/lzQ78/ai-search-skill) |
+[日本語](https://zdoc.app/ja/lzQ78/ai-search-skill) |
+[한국어](https://zdoc.app/ko/lzQ78/ai-search-skill) |
+[Português](https://zdoc.app/pt/lzQ78/ai-search-skill) |
+[Русский](https://zdoc.app/ru/lzQ78/ai-search-skill)
+
 # AI Search Skill
 
 AI Search Skill is a local multi-provider search orchestration CLI for AI agents.
