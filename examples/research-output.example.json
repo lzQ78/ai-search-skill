@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.1",
+  "query": "example query",
+  "profile": "balanced",
+  "intent": "general",
+  "plan": {
+    "query": "example query",
+    "query_type": "general",
+    "intent": "general",
+    "profile": "balanced",
+    "time_sensitive": false,
+    "freshness": null,
+    "angles": [
+      "example query",
+      "example query overview",
+      "example query sources"
+    ],
+    "max_search_providers": 4,
+    "fetch_limit": 5
+  },
+  "confidence": "low",
+  "claims": [
+    {
+      "text": "No independently verifiable sources were collected for: example query",
+      "confidence": "low",
+      "source_ids": [],
+      "conflict_ids": []
+    }
+  ],
+  "sources": [],
+  "conflicts": [],
+  "thread_refs": [],
+  "content_artifacts": [],
+  "provider_runs": []
+}
